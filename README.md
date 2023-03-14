@@ -2,16 +2,9 @@
 
 The following is a curated list of resources to learn more about Adversarial Attacks on AI Systems.
 
-### Prompt Injection
+## General
 
-- https://simonwillison.net/2022/Sep/12/prompt-injection/
-- https://research.nccgroup.com/2022/12/05/exploring-prompt-injection-attacks/
-- https://arstechnica.com/information-technology/2023/02/ai-powered-bing-chat-spills-its-secrets-via-prompt-injection-attack/
-- https://learnprompting.org/docs/prompt_hacking/injection
-- https://medium.com/seeds-for-the-future/tricking-chatgpt-do-anything-now-prompt-injection-a0f65c307f6b
-- https://greshake.github.io/
-- https://en.wikipedia.org/wiki/Prompt_engineering
-- https://analyticsindiamag.com/prompt-injection-threat-is-real-will-turn-llms-into-monsters/
+https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html
 
 ### Differential Privacy Attacks
 
@@ -43,3 +36,24 @@ The following is a curated list of resources to learn more about Adversarial Att
 - http://personal.psu.edu/ffm5105/files/2022/aaai22.pdf
 - https://dl.acm.org/doi/abs/10.1145/3503161.3548103
 - https://proceedings.mlr.press/v180/wang22b/wang22b.pdf
+
+## Large Language Models
+
+### Prompt Injection
+
+- https://simonwillison.net/2022/Sep/12/prompt-injection/
+- https://research.nccgroup.com/2022/12/05/exploring-prompt-injection-attacks/
+- https://arstechnica.com/information-technology/2023/02/ai-powered-bing-chat-spills-its-secrets-via-prompt-injection-attack/
+- https://learnprompting.org/docs/prompt_hacking/injection
+- https://medium.com/seeds-for-the-future/tricking-chatgpt-do-anything-now-prompt-injection-a0f65c307f6b
+- https://greshake.github.io/
+- https://en.wikipedia.org/wiki/Prompt_engineering
+- https://analyticsindiamag.com/prompt-injection-threat-is-real-will-turn-llms-into-monsters/
+
+### Model Stealing
+
+- https://crfm.stanford.edu/2023/03/13/alpaca.html
+
+### Toxicity
+
+- https://www.cs.princeton.edu/courses/archive/fall22/cos597G/lectures/lec14.pdf
