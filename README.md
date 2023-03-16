@@ -39,6 +39,10 @@ https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html
 
 ## Large Language Models
 
+### General
+
+- https://arxiv.org/pdf/2202.03286.pdf
+
 ### Prompt Injection
 
 - https://simonwillison.net/2022/Sep/12/prompt-injection/
