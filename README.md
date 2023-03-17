@@ -17,6 +17,7 @@ https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html
 
 ### Adversarial Perturbance Text
 
+- https://arxiv.org/abs/2302.04222
 - https://proceedings.mlr.press/v180/wang22b/wang22b.pdf
 - https://arxiv.org/abs/1910.04618
 - https://arxiv.org/pdf/2201.02504.pdf
