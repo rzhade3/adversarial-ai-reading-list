@@ -42,7 +42,8 @@ https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html
 
 ### General
 
-- https://arxiv.org/pdf/2202.03286.pdf
+- https://arxiv.org/pdf/2202.03286
+- https://openai.com/research/gpt-4
 
 ### Prompt Injection
 
@@ -58,6 +59,7 @@ https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html
 ### Model Stealing
 
 - https://crfm.stanford.edu/2023/03/13/alpaca.html
+- https://arxiv.org/abs/2111.04625
 
 ### Toxicity
 
