@@ -6,6 +6,10 @@
 
 ## Legal Policy
 
-#### Copyright
+### Risks
+
+- https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-ai-rmf-10
+
+### Copyright
 
 - https://www.federalregister.gov/documents/2023/03/16/2023-05321/copyright-registration-guidance-works-containing-material-generated-by-artificial-intelligence
