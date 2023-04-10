@@ -8,6 +8,10 @@ The following is a curated list of resources to learn more about Adversarial Att
 - https://docs.google.com/document/d/1bEQM1W-1fzSVWNbS4ne5PopB2b7j8zD4Jc3nm4rbK-U/mobilebasic
 - https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html
 
+## Demos
+
+- http://jlin.xyz/advis/
+
 ### Differential Privacy Attacks
 
 - https://en.wikipedia.org/wiki/Differential_privacy
