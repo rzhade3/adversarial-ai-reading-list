@@ -3,6 +3,7 @@
 ## Ethics
 
 - https://dl.acm.org/doi/10.1145/3442188.3445922
+- https://www.youtube.com/watch?v=P7XT4TWLzJw
 
 ## Legal Policy
 
