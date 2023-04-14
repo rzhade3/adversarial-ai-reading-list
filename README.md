@@ -55,6 +55,7 @@ The following is a curated list of resources to learn more about Adversarial Att
 ### Prompt Injection
 
 - https://simonwillison.net/2022/Sep/12/prompt-injection/
+- https://simonwillison.net/2023/Apr/14/worst-that-can-happen/
 - https://research.nccgroup.com/2022/12/05/exploring-prompt-injection-attacks/
 - https://arstechnica.com/information-technology/2023/02/ai-powered-bing-chat-spills-its-secrets-via-prompt-injection-attack/
 - https://learnprompting.org/docs/prompt_hacking/injection
