@@ -10,6 +10,7 @@
 ### Risks
 
 - https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-ai-rmf-10
+- https://cyber.fsi.stanford.edu/publication/vulnerability-disclosure-and-management-aiml-systems-working-paper-policy
 
 ### Copyright
 
