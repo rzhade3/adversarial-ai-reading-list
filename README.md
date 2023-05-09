@@ -44,6 +44,12 @@ The following is a curated list of resources to learn more about Adversarial Att
 - https://dl.acm.org/doi/abs/10.1145/3503161.3548103
 - https://proceedings.mlr.press/v180/wang22b/wang22b.pdf
 
+### Model Stealing
+
+- https://crfm.stanford.edu/2023/03/13/alpaca.html
+- https://arxiv.org/abs/2111.04625
+- https://www.semianalysis.com/p/google-we-have-no-moat-and-neither
+
 ## Large Language Models
 
 ### General
@@ -63,11 +69,6 @@ The following is a curated list of resources to learn more about Adversarial Att
 - https://greshake.github.io/
 - https://en.wikipedia.org/wiki/Prompt_engineering
 - https://analyticsindiamag.com/prompt-injection-threat-is-real-will-turn-llms-into-monsters/
-
-### Model Stealing
-
-- https://crfm.stanford.edu/2023/03/13/alpaca.html
-- https://arxiv.org/abs/2111.04625
 
 ### Toxicity
 
