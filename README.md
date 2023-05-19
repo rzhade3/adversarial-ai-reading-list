@@ -50,6 +50,10 @@ The following is a curated list of resources to learn more about Adversarial Att
 - https://arxiv.org/abs/2111.04625
 - https://www.semianalysis.com/p/google-we-have-no-moat-and-neither
 
+### Risk Management
+
+- https://github.com/trailofbits/publications/blob/master/papers/toward_comprehensive_risk_assessments.pdf
+
 ## Large Language Models
 
 ### General
