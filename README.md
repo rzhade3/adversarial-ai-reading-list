@@ -74,6 +74,11 @@ The following is a curated list of resources to learn more about Adversarial Att
 - https://en.wikipedia.org/wiki/Prompt_engineering
 - https://analyticsindiamag.com/prompt-injection-threat-is-real-will-turn-llms-into-monsters/
 
+### Data Poisoning
+
+- https://arxiv.org/abs/2305.00944
+- https://softwarecrisis.dev/letters/the-poisoning-of-chatgpt/
+
 ### Toxicity
 
 - https://www.cs.princeton.edu/courses/archive/fall22/cos597G/lectures/lec14.pdf
