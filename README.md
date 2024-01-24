@@ -61,6 +61,7 @@ The following is a curated list of resources to learn more about Adversarial Att
 - https://arxiv.org/pdf/2202.03286
 - https://openai.com/research/gpt-4
 - https://arxiv.org/abs/2209.15259
+- https://www.anthropic.com/news/sleeper-agents-training-deceptive-llms-that-persist-through-safety-training
 
 ### Prompt Injection
 
