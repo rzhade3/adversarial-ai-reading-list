@@ -43,6 +43,7 @@ The following is a curated list of resources to learn more about Adversarial Att
 - http://personal.psu.edu/ffm5105/files/2022/aaai22.pdf
 - https://dl.acm.org/doi/abs/10.1145/3503161.3548103
 - https://proceedings.mlr.press/v180/wang22b/wang22b.pdf
+- https://arxiv.org/pdf/2310.13828
 
 ### Model Stealing
 
