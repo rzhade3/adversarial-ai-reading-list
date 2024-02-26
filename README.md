@@ -76,6 +76,7 @@ The following is a curated list of resources to learn more about Adversarial Att
 - https://en.wikipedia.org/wiki/Prompt_engineering
 - https://analyticsindiamag.com/prompt-injection-threat-is-real-will-turn-llms-into-monsters/
 - https://arxiv.org/abs/2307.15043
+- https://github.com/dropbox/llm-security
 
 ### Data Poisoning
 
