@@ -82,6 +82,7 @@ The following is a curated list of resources to learn more about Adversarial Att
 
 - https://arxiv.org/abs/2305.00944
 - https://softwarecrisis.dev/letters/the-poisoning-of-chatgpt/
+- https://arxiv.org/abs/2302.10149
 
 ### Training Data Extraction
 
