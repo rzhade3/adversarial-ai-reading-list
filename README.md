@@ -26,7 +26,7 @@ The following is a curated list of resources to learn more about Adversarial Att
 - https://arxiv.org/abs/2302.04222
 - https://proceedings.mlr.press/v180/wang22b/wang22b.pdf
 - https://arxiv.org/abs/1910.04618
-- https://arxiv.org/pdf/2201.02504.pdf
+- https://arxiv.org/abs/2201.02504
 - https://towardsdatascience.com/what-are-adversarial-examples-in-nlp-f928c574478e?gi=1cf5e4b20208
 - https://www.ijcai.org/proceedings/2018/0601.pdf
 - https://www.ijcai.org/proceedings/2018/601
@@ -43,7 +43,7 @@ The following is a curated list of resources to learn more about Adversarial Att
 - http://personal.psu.edu/ffm5105/files/2022/aaai22.pdf
 - https://dl.acm.org/doi/abs/10.1145/3503161.3548103
 - https://proceedings.mlr.press/v180/wang22b/wang22b.pdf
-- https://arxiv.org/pdf/2310.13828
+- https://arxiv.org/abs/2310.13828
 
 ### Model Stealing
 
@@ -59,7 +59,7 @@ The following is a curated list of resources to learn more about Adversarial Att
 
 ### General
 
-- https://arxiv.org/pdf/2202.03286
+- https://arxiv.org/abs/2202.03286
 - https://openai.com/research/gpt-4
 - https://arxiv.org/abs/2209.15259
 - https://www.anthropic.com/news/sleeper-agents-training-deceptive-llms-that-persist-through-safety-training
