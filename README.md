@@ -77,6 +77,7 @@ The following is a curated list of resources to learn more about Adversarial Att
 - https://analyticsindiamag.com/prompt-injection-threat-is-real-will-turn-llms-into-monsters/
 - https://arxiv.org/abs/2307.15043
 - https://github.com/dropbox/llm-security
+- https://imprompter.ai/
 
 ### Data Poisoning
 
