@@ -7,6 +7,7 @@ The following is a curated list of resources to learn more about Adversarial Att
 - https://drive.google.com/file/d/1-Gw1QsZEVhPYSeeNYnlrcgk_FbwuUTwq/
 - https://docs.google.com/document/d/1bEQM1W-1fzSVWNbS4ne5PopB2b7j8zD4Jc3nm4rbK-U/mobilebasic
 - https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html
+- https://dreadnode.notion.site/?v=74ab79ed1452441dab8a1fa02099fedb
 
 ## Demos
 
