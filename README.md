@@ -81,6 +81,7 @@ The following is a curated list of resources to learn more about Adversarial Att
 - https://arxiv.org/abs/2307.15043
 - https://github.com/dropbox/llm-security
 - https://imprompter.ai/
+- https://gandalf.lakera.ai/baseline
 
 ### Data Poisoning
 
