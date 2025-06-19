@@ -10,6 +10,7 @@ The following is a curated list of resources to learn more about Adversarial Att
 - https://dreadnode.notion.site/?v=74ab79ed1452441dab8a1fa02099fedb
 - https://embracethered.com/
 - https://josephthacker.com/hacking/2025/02/25/how-to-hack-ai-apps.html
+- https://wiki.offsecml.com/
 
 ## Demos
 
@@ -82,6 +83,7 @@ The following is a curated list of resources to learn more about Adversarial Att
 - https://github.com/dropbox/llm-security
 - https://imprompter.ai/
 - https://gandalf.lakera.ai/baseline
+- https://jplhughes.github.io/bon-jailbreaking/
 
 ### Data Poisoning
 
