@@ -106,3 +106,7 @@ https://not-just-memorization.github.io/extracting-training-data-from-chatgpt.ht
 ### Toxicity
 
 - https://www.cs.princeton.edu/courses/archive/fall22/cos597G/lectures/lec14.pdf
+
+### MCP
+
+- https://vulnerablemcp.info/
