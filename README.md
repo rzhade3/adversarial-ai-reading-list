@@ -110,3 +110,4 @@ https://not-just-memorization.github.io/extracting-training-data-from-chatgpt.ht
 ### MCP
 
 - https://vulnerablemcp.info/
+- https://github.com/SamMorrowDrums/mcp-security-workshop
